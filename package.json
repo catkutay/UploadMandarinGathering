@@ -1,0 +1,15 @@
+{
+  "name": "uploaddata",
+  "version": "1.0.0",
+  "description": "Upload data if DalangGathering Firebase Firestore Cloud Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "catkutay",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.6.6",
+    "firebase-admin": "^10.0.1"
+  }
+}
